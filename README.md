@@ -48,7 +48,7 @@ https://github.com/anmolsodhi848-wq/Customer-Spending-Behavior/blob/main/Custome
 1. **Customer Demographics**
    1. Gender distribution is relatively balanced, with a slight male majority; however, the “Other” segment is also significantly represented, indicating an inclusive customer base.
    2. Age distribution shows the highest customer concentration between 40–50 years, highlighting this segment as the core target audience.
-   3. Regional customer spread is fairly even, with the South leading slightly in overall customer count.
+   3. Regional customer spread is fairly even, with the East leading slightly in overall customer count.
 
 2. Subscription & Customer Behavior
    1. Basic plan has the highest adoption (347 users), followed closely by Premium and Standard, indicating strong demand for entry-level plans.
